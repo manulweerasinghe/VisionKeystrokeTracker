@@ -1,0 +1,4 @@
+position of the overlay
+scale of the overlay
+opasity of the overlay
+camera resolution details (height, witdth)
