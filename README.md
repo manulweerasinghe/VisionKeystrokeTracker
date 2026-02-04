@@ -11,3 +11,5 @@ Unfortunately, I had to use AI (chatGPT) for `numpy` arrays and figure out windo
 Others Resources,
 1. [Google mediapipe examples](https://ai.google.dev/edge/mediapipe/solutions/guide) (Note: I'm using the legacy ver. of the hand detection)
 2. [Roboflow model](https://universe.roboflow.com/keyboard-detection-v2/keyboard-detection-v2)
+
+(Note: Use python 3.10 version, mediapipe is only supported upto that version.)
